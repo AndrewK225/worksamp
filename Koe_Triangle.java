@@ -11,7 +11,7 @@ public class Koe_Triangle {
 
     public static void main(String[] args) {
         String[] line;
-        int[][] triangle = new int[100][100];
+        int[][] triangle = new int[100][100]; //memory inefficient and needs fixing later
         int i = 0;
 
         //parse through file
