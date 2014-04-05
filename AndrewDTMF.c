@@ -2,6 +2,7 @@
 Andrew Koe
 DTMF Project 03/11/2013
 expanded on sample code that was provided
+The program takes in numbers and then plays the DTMF frequencies back
 */
 
 
